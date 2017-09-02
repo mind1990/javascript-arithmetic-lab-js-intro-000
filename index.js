@@ -22,3 +22,7 @@ function inc(a, b) {
 function dec(a, b) {
   return
 }
+
+function makeInt(a, b) {
+  
+}
