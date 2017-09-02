@@ -23,6 +23,6 @@ function dec(a) {
   return a -= 1
 }
 
-function makeInt(a, b) {
-
+function makeInt(a) {
+  return pareInt(a, 10)
 }
